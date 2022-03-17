@@ -4,7 +4,7 @@
 int main()
 {
     int numero,numero2,numero3, numero4=30;
-    //printf("Numero %i\nNumero2 %i\nNumero3 %d\n", numero, numero2, numero3);
+    printf("Numero %i\nNumero2 %i\nNumero3 %d\n", numero, numero2, numero3);
 
     /*printf("\n\nPor favor, ingresar un numero\n");
     scanf("%i",&numero);*/
